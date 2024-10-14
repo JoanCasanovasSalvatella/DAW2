@@ -1,0 +1,14 @@
+img{
+    width: 150px;
+    margin-left: 5px;
+}
+
+div{
+    background-color: lightgreen;
+    border-radius: 20px;
+    text-align: center;
+}
+
+button{
+    margin: 5px;
+}
